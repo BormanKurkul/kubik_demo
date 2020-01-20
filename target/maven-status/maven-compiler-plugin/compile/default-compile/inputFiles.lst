@@ -1,0 +1,9 @@
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\controllers\HomeController.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\config\PersistanceConfiguration.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\KubikDemoApplication.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\controllers\SpeakerController.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\repositories\SessionRepository.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\repositories\SpeakerRepository.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\controllers\SessionsController.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\models\Session.java
+C:\JenkinsPipeline\kubik-demo\src\main\java\com\kurkul\kubikdemo\models\Speaker.java
